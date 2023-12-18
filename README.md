@@ -33,12 +33,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<img align="right" height="200" src="https://cdn.jsdelivr.us/gh/snqx-lqh/MyImg/web_imgs/avatar.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/snqx-lqh/snqx-lqh/output/snake.svg" alt="Snake animation" />
-
-###
