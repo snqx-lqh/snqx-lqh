@@ -1,4 +1,11 @@
-<p align="left">Hi there 👋</p>
+### Hi，欢迎来到我的主页 👋
+
+- 🧡 喜欢嵌入式软硬件开发
+- 🔨 折腾中寻找快乐
+- 📯 我的哔哩哔哩空间（Bilibili Video） [https://space.bilibili.com/472467171](https://space.bilibili.com/336653490)
+- 📚 我的CSDN博客（CSDN Blog） [https://blog.csdn.net/weixin_44791964](https://blog.csdn.net/wan1234512)
+- 📫 我的邮箱 liqinghuaxx@163.com
+- 📜 欢迎交流
 
 ###
 
