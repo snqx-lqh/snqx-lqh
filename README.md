@@ -5,7 +5,7 @@
 - 📚 我的CSDN博客（CSDN Blog） [https://blog.csdn.net/weixin_44791964](https://blog.csdn.net/wan1234512)
 - 🔨 我的个人知识库 https://snqx-lqh.github.io/wiki/   镜像：https://wiki-20f.pages.dev/
 - 📫 我的邮箱 liqinghuaxx@163.com
-- 📜 欢迎交流
+- 📜 我的微信号 Qinghua-Li7 欢迎交流
 
 ###
 
